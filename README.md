@@ -1,4 +1,18 @@
-# Sass for TextMate/Sublime Text 2 & 3
+# Sass + Liquid for TextMate/Sublime Text 2 & 3
+
+## It's Liquid SASS!
+
+I got tired of staring at non-syntaxed Shopify SCSS code that used Liquid. This is a brute force merging of the Siteleaf Liquid syntax into the SASS syntax plugins, all credit goes to the respective creators.
+
+[Siteleaf / liquid-syntax-mode](https://github.com/siteleaf/liquid-syntax-mode)
+[nathos / sass-textmate-bundle](https://github.com/nathos/sass-textmate-bundle)
+
+##### Version 0.00002a
+- Brute force merged the syntax settings over from liquid-syntax-mode into sass-textmate-bundle ... it works!
+- Updated readme.md
+
+
+## Original SASS Documentation Below
 
 ## What's this thingie?
 
